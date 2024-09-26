@@ -7,5 +7,6 @@ class Program
         // Here is your empty program!
         Console.Clear();
         Console.WriteLine("Hello world!");
+        Console.WriteLine("wow");
     }
 }
